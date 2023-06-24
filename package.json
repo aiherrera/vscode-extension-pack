@@ -1,0 +1,48 @@
+{
+  "name": "vscode-extension-package",
+  "displayName": "VSCode Extension Package by aiherrera",
+  "description": "Personal setup for development extension package",
+  "version": "1.0.1",
+  "preview": true,
+  "publisher": "aiherrera",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aiherrera/vscode-extension-package.git"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "adpyke.codesnap",
+    "bradlc.vscode-tailwindcss",
+    "ChakrounAnas.turbo-console-log",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "fabiospampinato.vscode-monokai-night",
+    "fabiospampinato.vscode-open-in-github",
+    "fabiospampinato.vscode-open-in-npm",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "ghmcadams.lintlens",
+    "GitHub.copilot",
+    "github.vscode-github-actions",
+    "Gruntfuggly.todo-tree",
+    "GuodongSun.vscode-git-cruise",
+    "huizhou.githd",
+    "mhutchie.git-graph",
+    "mikestead.dotenv",
+    "naumovs.color-highlight",
+    "rangav.vscode-thunder-client",
+    "streetsidesoftware.code-spell-checker",
+    "yandeu.five-server"
+  ]
+}

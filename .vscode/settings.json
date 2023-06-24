@@ -1,0 +1,50 @@
+{
+  // Look & Feel
+  "editor.accessibilitySupport": "off",
+  "editor.indentSize": "tabSize",
+  "workbench.sideBar.location": "right",
+  "editor.fontSize": 15,
+  "debug.console.fontSize": 14,
+  "terminal.integrated.fontSize": 14,
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Monokai Night",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  // Git
+  "git.autofetch": true,
+  // Code Formatting
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "files.autoSave": "onFocusChange",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript",
+    "typescript"
+  ],
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "[markdown]": {
+    "editor.wordWrap": "on"
+  },
+}
