@@ -19,7 +19,7 @@
 </p>
 
 <h2 style="display:flex;align-items:center;gap:10px;padding:10px 0;margin-bottom:20px;border-bottom:1px solid #4a4f57">
-  <img width="25" height="25" style="flex" src="readme/overview.png" />&nbsp;
+  <img width="25" height="25" style="flex" src="readme/overview.png" /> &nbsp;
   <span>Quick overview</span>
 </h2>
 
@@ -31,7 +31,7 @@
 </p>
 
 <h2 style="display:flex;align-items:center;gap:10px;padding:10px 0;margin-bottom:20px;border-bottom:1px solid #4a4f57">
-  <img width="25" height="25" style="flex" src="readme/features.png" />&nbsp;
+  <img width="25" height="25" style="flex" src="readme/features.png" /> &nbsp;
   <span>Included extensions</span>
 </h2>
 
@@ -61,7 +61,7 @@
 - YAML: YAML Language Support by Red Hat, with built-in Kubernetes syntax support
 
 <h2 style="display:flex;align-items:center;gap:10px;padding:10px 0;margin-bottom:20px;border-bottom:1px solid #4a4f57">
-  <img width="25" height="25" style="flex" src="readme/author.png" />&nbsp;
+  <img width="25" height="25" style="flex" src="readme/author.png" /> &nbsp;
   <span>Author</span>
 </h2>
 
@@ -74,7 +74,7 @@
 - LinkedIn: [@-aiherrera](https://linkedin.com/in/-aiherrera)
 
 <h2 style="display:flex;align-items:center;gap:10px;padding:10px 0;margin-bottom:20px;border-bottom:1px solid #4a4f57">
-  <img width="25" height="25" style="flex" src="readme/contribute.png" />&nbsp;
+  <img width="25" height="25" style="flex" src="readme/contribute.png" /> &nbsp;
   <span>Contribute</span>
 </h2>
 
