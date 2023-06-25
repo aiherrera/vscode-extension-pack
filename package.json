@@ -2,8 +2,8 @@
   "name": "vscode-extension-package",
   "displayName": "VSCode Extension Package by aiherrera",
   "description": "Personal setup for development extension package",
-  "version": "1.0.2",
-  "preview": true,
+  "version": "1.0.3",
+  "preview": false,
   "publisher": "aiherrera",
   "icon": "icon.png",
   "engines": {
